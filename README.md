@@ -1,1 +1,1 @@
-# Medium-Easy-Exercism-Rust
+# Medium-Exercism-Rust
