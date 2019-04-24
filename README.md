@@ -8,4 +8,4 @@ Di program ini kita diminta untuk mengecek apakah angka-angka tersebut bisa menu
 
 # Solusi
 
-Untuk menyelesaikan problem tersebut, kita bisa pakai rumus 'x^2 + y^2 = z^2' dimana 'x < y < z'. Contoh nya seperti
+Untuk menyelesaikan problem tersebut, kita bisa pakai rumus `x^2 + y^2 = z^2` dimana `x < y < z`. Contoh nya seperti
