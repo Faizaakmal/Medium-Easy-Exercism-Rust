@@ -22,3 +22,4 @@ fn prime(angka: u32) -> bool {
 	}
 	bilprima
 }
+// https://exercism.io/my/solutions/94d77d394e6947eaa63de7c1c418d461
