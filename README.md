@@ -6,7 +6,7 @@ Esai ini dibuat untuk memenuhi tugas mata kuliah sistem operasi di semester 110.
 
 Di program ini kita diminta untuk mengecek apakah angka-angka yang diberikan bisa menunjukkan bahwa angka itu adalah sisi yang dapat membuat segitiga pytagoras.
 
-# Solusi
+# Solution
 
 Untuk menyelesaikan problem tersebut, kita bisa pakai rumus:
 `x**2 + y**2 = z**2` dimana `x < y < z`. 
