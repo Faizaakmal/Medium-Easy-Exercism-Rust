@@ -24,3 +24,4 @@ fn prima(n: u64) -> bool {
 	}
 	return n != 1;
 }
+// https://exercism.io/my/solutions/fa93c65f92c740d89c342ab6031fe577
