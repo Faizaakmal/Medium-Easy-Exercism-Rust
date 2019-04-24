@@ -18,3 +18,4 @@ pub fn check(candidate: &str) -> bool {
     }
     isogram
 }
+// https://exercism.io/my/solutions/f90beaad449c4e868757a40e4b3cb671
