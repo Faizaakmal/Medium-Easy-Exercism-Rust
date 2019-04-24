@@ -14,4 +14,4 @@ pub fn total() -> u64 {
     }
     return total;
 }
-//https://exercism.io/my/solutions/c102ee59d260482ebbb8d6fb308434ec
+// https://exercism.io/my/solutions/c102ee59d260482ebbb8d6fb308434ec
