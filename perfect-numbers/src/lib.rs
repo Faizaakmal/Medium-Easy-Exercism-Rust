@@ -28,3 +28,4 @@ pub fn sums(num: u64) -> u64 {
     }
     return sum
 }
+// https://exercism.io/my/solutions/e0240a2a29c94a43a4ab1d9b9e2685c7
