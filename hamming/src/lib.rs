@@ -12,3 +12,4 @@ pub fn hamming_distance(s1: &str, s2: &str) -> Option<usize> {
                 .filter(|&(left, right)| left!= right).count())
     }
 }
+// https://exercism.io/my/solutions/61eb386a167c4307b4a48bdec325c165
