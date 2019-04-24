@@ -13,3 +13,4 @@ pub fn sum_of_multiples(limit: u64, factors: &[u64]) -> u64 {
     }
     return factor_list.iter().sum();
 }
+// https://exercism.io/my/solutions/6c5d98d067324c4d8f91c7c821fbf145
